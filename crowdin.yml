@@ -1,0 +1,25 @@
+preserve_hierarchy: true
+files:
+  - source: /Spider2FA.Droid/Resources/values/strings.xml
+    translation: /Spider2FA.Droid/Resources/values-%two_letters_code%/strings.xml
+    languages_mapping:
+      two_letters_code:
+        zh-CN: zh-rCN
+        zh-TW: zh-rTW
+        pt-BR: pt-rBR
+        en-US: en-rUS
+
+  - source: /Spider2FA.WearOS/Resources/values/strings.xml
+    translation: /Spider2FA.WearOS/Resources/values-%two_letters_code%/strings.xml
+    languages_mapping:
+      two_letters_code:
+        zh-CN: zh-rCN
+        zh-TW: zh-rTW
+        pt-BR: pt-rBR
+        en-US: en-rUS
+
+  - source: /fastlane/metadata/android/en-GB/short_description.txt
+    translation: /fastlane/metadata/android/%locale%/short_description.txt
+
+  - source: /fastlane/metadata/android/en-GB/full_description.txt
+    translation: /fastlane/metadata/android/%locale%/full_description.txt

@@ -1,0 +1,13 @@
+Categories:
+  - Security
+License: GPL-3.0-or-later
+AuthorName: jmh
+WebSite: https://spider2fa.app
+SourceCode: https://github.com/SnowFallOfficial/Spider2FA
+IssueTracker: https://github.com/SnowFallOfficial/Spider2FA/issues
+
+Name: Spider2FA
+Summary: Free and open-source 2FA app with encrypted backups
+
+AutoUpdateMode: None
+UpdateCheckMode: None

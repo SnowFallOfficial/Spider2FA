@@ -1,0 +1,6 @@
+<linker>
+    <assembly fullname="Spider2FA.Core" preserve="all"/>
+    <assembly fullname="Spider2FA.WearOS" preserve="all"/>
+    <assembly fullname="Spider2FA.Droid.Shared" preserve="all"/>
+    <assembly fullname="Autofac" preserve="all"/>
+</linker>
